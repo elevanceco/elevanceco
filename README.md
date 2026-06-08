@@ -2,29 +2,39 @@
 
 **Building practical software for Indonesian businesses.**
 
-Lokaltech is a technology startup focused on helping local businesses streamline operations through modern, affordable, and user-friendly software.
+Lokaltech helps businesses streamline operations through custom software, internal systems, and modern digital solutions.
 
-## What We Build
+## Services
 
-* Custom Business Applications
-* Internal Operational Systems
-* Dashboard & Reporting Solutions
-* Procurement & Inventory Systems
-* CRM & ERP Lite Solutions
-* Industry-Focused SaaS Products
+### Custom Web Applications
 
-## Current Product
+Tailored solutions built around your business processes and operational needs.
 
-🚀 **Velora Packs**
+### Internal Business Systems
 
-A quotation and customer management platform for packaging companies.
+Dashboards, portals, workflow automation, reporting systems, and operational tools.
 
-## Current Focus
+### Digital Transformation
 
-* Product Validation
-* MVP Development
-* Pilot Customers
-* SaaS Growth
+Helping businesses move beyond spreadsheets, manual workflows, and fragmented communication.
+
+### SaaS Products
+
+Building industry-focused software products based on real business challenges.
+
+## Projects & Solutions
+
+Examples of solutions we build:
+
+* Company Profile Websites
+* Business Portals
+* Internal Dashboards
+* Procurement Systems
+* Inventory Management Systems
+* CRM Solutions
+* ERP Lite Systems
+* Quotation Management Platforms
+* Reporting & Analytics Dashboards
 
 ## Technology Stack
 
@@ -49,12 +59,17 @@ A quotation and customer management platform for packaging companies.
 * Nginx
 * GitHub Actions
 
-### Currently Exploring
+### Exploring
 
 * Kubernetes
 * Observability & Monitoring
-* CI/CD Automation
 * Scalable SaaS Architecture
+
+## What's Next
+
+🚀 Velora Packs — a quotation and customer management platform designed for the packaging industry.
+
+Currently in MVP and validation stage.
 
 ---
 
