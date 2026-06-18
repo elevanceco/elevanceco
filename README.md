@@ -67,9 +67,24 @@ Helping businesses move beyond manual processes and outdated workflows with prac
 
 A quotation and customer management platform designed for businesses in the packaging industry.
 
-Currently in MVP and validation stage.
+**Focus:** Quotation Management, Customer Tracking, Business Operations
+
+### HelloBake
+
+A modern bakery website designed to showcase products, simplify inquiries, and support online ordering.
+
+**Focus:** E-commerce Experience, Product Catalog, Customer Engagement
+
+### Vitademy
+
+An online learning platform featuring digital courses and personality assessments to help users discover their strengths and continue growing.
+
+**Focus:** Online Learning, Personality Testing, User Development
 
 ---
+
+Building products that solve real problems, improve workflows, and create better digital experiences.
+
 
 ### Our Philosophy
 
