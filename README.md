@@ -1,40 +1,35 @@
-# 👋 Welcome to Lokaltech
+# 👋 Welcome to Elevance Co.
 
-**Building practical software for Indonesian businesses.**
+**We Build, You Elevate.**
 
-Lokaltech helps businesses streamline operations through custom software, internal systems, and modern digital solutions.
+Elevance Co. helps businesses grow through modern websites, custom software, and digital solutions built around real business needs.
 
-## Services
+We believe technology should simplify operations, improve customer experience, and create opportunities for growth.
 
-### Custom Web Applications
+## What We Do
 
-Tailored solutions built around your business processes and operational needs.
+### Web Development
 
-### Internal Business Systems
+Modern, responsive websites that help businesses build credibility and connect with customers.
 
-Dashboards, portals, workflow automation, reporting systems, and operational tools.
+### Custom Business Solutions
 
-### Digital Transformation
+Internal tools, dashboards, portals, and workflow systems designed around the way your business actually operates.
 
-Helping businesses move beyond spreadsheets, manual workflows, and fragmented communication.
+### Digital Growth
 
-### SaaS Products
+Helping businesses move beyond manual processes and outdated workflows with practical technology solutions.
 
-Building industry-focused software products based on real business challenges.
-
-## Projects & Solutions
-
-Examples of solutions we build:
+## Solutions We Build
 
 * Company Profile Websites
 * Business Portals
 * Internal Dashboards
-* Procurement Systems
 * Inventory Management Systems
 * CRM Solutions
-* ERP Lite Systems
-* Quotation Management Platforms
-* Reporting & Analytics Dashboards
+* Quotation & Proposal Systems
+* Reporting & Analytics Platforms
+* Custom Business Applications
 
 ## Technology Stack
 
@@ -59,19 +54,26 @@ Examples of solutions we build:
 * Nginx
 * GitHub Actions
 
-### Exploring
+### Currently Exploring
 
 * Kubernetes
 * Observability & Monitoring
+* AI-Powered Business Solutions
 * Scalable SaaS Architecture
 
-## What's Next
+## Current Projects
 
-🚀 Velora Packs — a quotation and customer management platform designed for the packaging industry.
+### Velora Packs
+
+A quotation and customer management platform designed for businesses in the packaging industry.
 
 Currently in MVP and validation stage.
 
 ---
 
-**Lokaltech**
-Building software for real business problems.
+### Our Philosophy
+
+Technology should help businesses move faster, operate smarter, and grow with confidence.
+
+**Elevance Co.**
+*We Build, You Elevate.*
